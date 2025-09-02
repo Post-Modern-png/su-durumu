@@ -1,7 +1,7 @@
 # SU DURUMU
 
 **SU DURUMU**, akarsular, nehirler ve denizlerdeki kirlilik oranlarını takip etmeyi sağlayan bir uygulamadır.  
-Amacımız: çevre bilincini artırmak, güncel verilerle su kaynaklarının durumunu anlaşılır bir şekilde sunmak. 🌍
+Amacımız: çevre bilincini artırmak, güncel verilerle su kaynaklarının durumunu anlaşılır bir şekilde sunmak.
 
 ---
 
