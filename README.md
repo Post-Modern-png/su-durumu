@@ -25,17 +25,3 @@ Amacımız: çevre bilincini artırmak, güncel verilerle su kaynaklarının dur
 1. Veriler resmi çevre kurumlarından çekilir.  
 2. Uygulama bu verileri işler ve anlaşılır grafiklere dönüştürür.  
 3. Kullanıcı, bölgesini seçerek **su durumu raporunu** görüntüler.  
-
----
-
-## Ekran Görüntüleri
-
-
----
-
-## Kurulum
-```bash
-git clone https://github.com/kullaniciadi/su-durumu.git
-cd su-durumu
-npm install
-npm start
