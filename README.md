@@ -16,6 +16,7 @@ Amacımız: çevre bilincini artırmak, güncel verilerle su kaynaklarının dur
 -  **Canlı veriler** ile akarsuların ve nehirlerin kirlilik durumu  
 -  **Grafik gösterimleri** (ör. su kirliliği oranı % değerleri)  
 -  **Harita entegrasyonu** ile bölgesel inceleme  
+-  **Uydu görüntüleri** ile gerçek bilgi güvenilirliği.
 -  Kullanıcı dostu arayüz  
 
 ---
